@@ -2,9 +2,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1675818566/IMG_aa0h587-min_2_srl56w.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1675818566/IMG_aa0h587-min_2_srl56w.jpg">
-  <img alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1675818566/IMG_aa0h587-min_2_srl56w.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1679329842/images/Black_and_White_Gradient_Personal_LinkedIn_Banner_olbnd4.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1679329842/images/Black_and_White_Gradient_Personal_LinkedIn_Banner_olbnd4.jpg">
+  <img alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1679329842/images/Black_and_White_Gradient_Personal_LinkedIn_Banner_olbnd4.jpg">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Miraj Hossen</h1>
