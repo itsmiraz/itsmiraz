@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Miraj Hossen</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 
-- 🌱 I’m currently learning **Redux, Framer Motion, Vue.js**
+- 🌱 I’m currently learning **Redux, Framer Motion, Next.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
 
