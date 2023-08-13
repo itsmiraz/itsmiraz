@@ -8,7 +8,7 @@
 </picture>
 
 <h1 align="center">Hi 👋, I'm Miraj Hossen</h1>
-<h3 align="center">A passionate Full stack developer from BANGLADESH</h3>
+<h3 align="center">A passionate Full stack developer from BANGLADESH </h3>
 
 - 🌱 I’m currently learning **Redux, Framer Motion, Next.js, Typescript**
 
