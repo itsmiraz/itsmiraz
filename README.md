@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
 
-- 💬 Ask me about **React, Tailwind CSS, Next Js**
+- 💬 Ask me about **Tailwind CSS, Next Js**
 
 - 📫 How to reach me **mirajhossen7731@gmail.com**
 
