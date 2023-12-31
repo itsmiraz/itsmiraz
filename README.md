@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
-  <img style="border-radius: 10px" alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
+  <img  style={{ borderRadius: "10px" }} alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Miraj Hossen  </h1>
