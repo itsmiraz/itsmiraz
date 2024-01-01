@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mirajhossen7731@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUiGIqIJBYPJ7kVHgZa0vQZWSkMQkiHO/view?usp=sharing](https://drive.google.com/file/d/1MUiGIqIJBYPJ7kVHgZa0vQZWSkMQkiHO/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
