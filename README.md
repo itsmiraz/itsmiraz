@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Miraj Hossen  </h1>
 <h3 align="center"> I  am A passionate Full stack developer from BANGLADESH</h3>
 
-- 🌱 I’m currently learning **Redux, Framer Motion, Next.js, Typescript**
+- 🌱 I’m currently learning **Redux, Framer Motion, Next.js, Typescript, Socket Io**
 
 - 👨‍💻 All of my projects are available at [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
 
