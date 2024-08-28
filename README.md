@@ -5,7 +5,7 @@
 </picture>
 
 <h1 align="center">Hi 👋,I'm Miraj Hossen</h1>
-<h3 align="center"> I  am A passionate Full stack developer from BANGLADESH</h3>
+<h3 align="center"> I  am A passionate Full stack developer from BANGLADESH 2.0 </h3>
 
 - 🌱 I’m currently learning **Socket Io, LLM, User-interactive Web apps etc **
 
