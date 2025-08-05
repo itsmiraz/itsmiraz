@@ -4,10 +4,9 @@
   <img  style="border-radius: 10%;" alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
 </picture>
 
-## 👋 Hi, I'm Miraj Hossen
+### 👋 Hi, I'm Miraj Hossen
 
 I'm a passionate **Full Stack Developer** from **Bangladesh** 🇧🇩  
-Always exploring the next version of the web: **Bangladesh 2.0** 🚀
 
 ---
 
