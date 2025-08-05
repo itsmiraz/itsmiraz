@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Tailwind CSS, Next Js**
 
-- 📫 How to reach me **mirajhossen7731@gmail.com**
+- 📫 How to reach me **miraj.dev.contact@gmail.com**
 
 
 
