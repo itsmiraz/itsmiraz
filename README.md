@@ -68,6 +68,30 @@
 
 ---
 
+## ☁️ Amazon Web Services  
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![S3 Bucket](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![SES](https://img.shields.io/badge/Amazon%20SES-232F3E?style=flat&logo=amazonses&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat&logo=awscloud&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-205081?style=flat&logo=amazonroute53&logoColor=white)
+![SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+
+---
+
+## 🐳 DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-2E3A59?style=flat&logo=linux&logoColor=white)
+
+---
+
+## 🧰 And Many More...
+Continually exploring new tools and technologies to build scalable, modern applications.
+
 
 ###
 # 📊 GitHub Stats:
