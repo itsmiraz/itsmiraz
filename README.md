@@ -4,32 +4,49 @@
   <img  style="border-radius: 10%;" alt="Shosss" src="https://res.cloudinary.com/dicnezd6a/image/upload/v1689787852/New_github_cover_anoq0u.jpg">
 </picture>
 
-<h1 align="center">Hi 👋,I'm Miraj Hossen</h1>
-<h3 align="center"> I  am A passionate Full stack developer from BANGLADESH 2.0 </h3>
+## 👋 Hi, I'm Miraj Hossen
 
-- 🌱 I’m currently learning **Socket Io, LLM, User-interactive Web apps etc **
+I'm a passionate **Full Stack Developer** from **Bangladesh** 🇧🇩  
+Always exploring the next version of the web: **Bangladesh 2.0** 🚀
 
-- 👨‍💻 All of my projects are available at [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
+---
 
-- 💬 Ask me about **Tailwind CSS, Next Js**
+### 🌱 Currently Learning
+- **Socket.IO**
+- **Large Language Models (LLMs)**
+- **User-Interactive Web Applications**
 
-- 📫 How to reach me **miraj.dev.contact@gmail.com**
+---
+
+### 👨‍💻 Portfolio
+Check out all of my projects at:  
+👉 [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
+
+---
+
+### 💬 Ask Me About
+- **Tailwind CSS**
+- **Next.js**
+
+---
+
+### 📫 Reach Me At
+📧 miraj.dev.contact@gmail.com
+
+---
+
+### 🔗 Connect With Me
 
 
+- Twitter (X): [`@its_miraz`](https://x.com/its_miraz)
+- Linkedin: [`@mirajhossen`](https://linkedin.com/in/mirajhossen)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mirajhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirajhossen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mirajhosssen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammirajhossen" height="30" width="40" /></a>
-<a href="https://instagram.com/its_miraz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_miraz_" height="30" width="40" /></a>
-</p>
 
 ###
 
 
 # 🚀 My Tech Stack
 
----
 
 ## 🧑‍💻 Programming Languages  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
