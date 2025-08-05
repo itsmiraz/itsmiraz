@@ -11,22 +11,9 @@ Always exploring the next version of the web: **Bangladesh 2.0** 🚀
 
 ---
 
-### 🌱 Currently Learning
-- **Socket.IO**
-- **Large Language Models (LLMs)**
-- **User-Interactive Web Applications**
-
----
-
 ### 👨‍💻 Portfolio
 Check out all of my projects at:  
 👉 [https://mirajhossen.netlify.app/](https://mirajhossen.netlify.app/)
-
----
-
-### 💬 Ask Me About
-- **Tailwind CSS**
-- **Next.js**
 
 ---
 
@@ -36,7 +23,6 @@ Check out all of my projects at:
 ---
 
 ### 🔗 Connect With Me
-
 
 - Twitter (X): [`@its_miraz`](https://x.com/its_miraz)
 - Linkedin: [`@mirajhossen`](https://linkedin.com/in/mirajhossen)
